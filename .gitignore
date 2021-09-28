@@ -1,4 +1,7 @@
 .vscode
+cpp_output
 input.txt
-rough.py
-rough.cpp
+tc*.txt
+py_output.txt
+rough*.py
+rough*.cpp
