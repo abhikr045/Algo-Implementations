@@ -1,4 +1,5 @@
-##### Solution for https://www.hackerearth.com/practice/algorithms/graphs/strongly-connected-components/practice-problems/algorithm/components-of-graph-2b95e067/
+##### Kosaraju's algorithm to find all Strongly Connected Components (SCCs) in a Directed Graph
+##### This is a solution for https://www.hackerearth.com/practice/algorithms/graphs/strongly-connected-components/practice-problems/algorithm/components-of-graph-2b95e067/
 
 import sys
 sys.setrecursionlimit(500000)
